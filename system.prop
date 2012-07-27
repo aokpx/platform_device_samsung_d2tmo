@@ -95,6 +95,10 @@ debug.sf.hw=1
 debug.composition.type=dyn
 ro.cwm.enable_key_repeat=true
 
+# data tweaks
+ro.ril.hsxpa=1
+ro.ril.gprsclass=10
+
 # hardware info
 ro.device.cpu=1.5 GHz dual-core Qualcomm Snapdragon S4 MSM8960
 ro.device.gpu=Qualcomm Adreno 225
