@@ -89,8 +89,6 @@ com.qc.hardware=true
 com.qc.hdmi_out=true
 ro.hdmi.enable=true
 
-ro.cwm.enable_key_repeat=true
-
 # data tweaks
 ro.ril.hsxpa=1
 ro.ril.gprsclass=10
