@@ -9,10 +9,6 @@ rild.libargs=-d /dev/smd0
 ro.telephony.ril_class=SamsungQualcommD2RIL
 telephony.lteOnGsmDevice=1
 
-# data tweaks
-ro.ril.hsxpa=1
-ro.ril.gprsclass=10
-
 # hardware info
 ro.device.cpu=1.5 GHz dual-core Qualcomm Snapdragon S4 MSM8960
 ro.device.gpu=Qualcomm Adreno 225
